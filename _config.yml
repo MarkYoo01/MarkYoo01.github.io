@@ -1,17 +1,17 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "밀레니얼 프라이스"
+tagline:            "밀레니얼의 돈, 시간, 흥미 스틸러?"
+email:              "addio009@gmail.com"
+description:        "넘쳐나는 제품과 서비스, 저의 눈과 귀를 사로잡은 것들만 소개합니다."
+author:             "유명환"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://MarkYoo01.github.io"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "/img/thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
+instagram_username: instagram_bright__f/
+facebook_username:  facebook_today.yet/
 linkedin_username:  linkedin_username
 
 # Build settings
