@@ -1,4 +1,4 @@
-title:              "밀레니얼 프라이스"
+title:              "밀레니얼프라이스"
 tagline:            "밀레니얼의 돈, 시간, 흥미 스틸러?"
 email:              "addio009@gmail.com"
 description:        "넘쳐나는 제품과 서비스, 저의 눈과 귀를 사로잡은 것들만 소개합니다."
@@ -10,8 +10,8 @@ thumbnail:          "/img/thumbnail.png"
 
 # Social Profiles
 twitter_username:   twitter_username
-instagram_username: instagram_bright__f/
-facebook_username:  facebook_today.yet/
+instagram_username: bright__f/
+facebook_username:  today.yet/
 linkedin_username:  linkedin_username
 
 # Build settings
