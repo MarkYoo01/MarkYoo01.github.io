@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /second/
-title: '송중기와 같은 피부는 되고 싶다.'
+title: '송중기 같은 피부는 되고 싶다.'
 date: 2020-11-11 17:10:00 +09:00
 feature: '/img/article-1-thumbnail2.png'
 background: '/img/posts/001/article-1-backgroundpic.png'
