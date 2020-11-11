@@ -1,9 +1,9 @@
 ---
 layout: post
-permalink: /001/
+permalink: /first/
 title: '송중기처럼 생기지 못하겠지만,'
 date: 2020-11-09 12:06:00 +09:00
-feature: '/img/posts/001/article-1-thumbnail-cropsize.png'
+feature: '/img/article-1-thumbnail2.png'
 background: '/img/posts/001/article-1-backgroundpic.png'
 categories:
   - product-review
