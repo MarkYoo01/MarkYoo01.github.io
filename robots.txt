@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://markyoo01.github.io/sitemap.xml
+DaumWebMasterTool:87f57d9c974d01d5bda92c144f98ae7dfd0fec251e2c7439d5647b1327654666:AjqBsM5N9OwqdGhcHVi0YA==
