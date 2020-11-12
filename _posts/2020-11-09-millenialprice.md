@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /first/
+permalink: /toun28-review/
 title: '송중기처럼 생기지 못하겠지만'
 date: 2020-11-09 12:06:00 +09:00
 feature: '/img/article-1-thumbnail2.png'
