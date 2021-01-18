@@ -51,7 +51,7 @@ jekyll-archives:
 
 # Pagination
 paginate: 6
-paginate_path: "/_posts/page:num/"
+paginate_path: /page:num/
 
 # Other
 highlighter: none
