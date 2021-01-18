@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "밀레니얼프라이스"
+title: "밀레니얼프라이스"
+description: "넘쳐나는 제품과 서비스, 저의 눈과 귀를 사로잡은 것들만 소개합니다."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://markyoo01.github.io/
