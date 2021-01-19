@@ -7,10 +7,10 @@ favicon: 'assets/images/logo.png'
 baseurl: "https://markyoo01.github.io"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: addio009@gmail.com
 
 # Authors
 authors:
@@ -31,6 +31,15 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+  Mark:
+    name: Mark
+    display_name: Mark
+    avatar: 'assets/images/mark_avatar.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: addio009@gmail.com
+    web:
+    twitter:
+    description: 
 
 # Plugins
 plugins:
@@ -50,7 +59,7 @@ jekyll-archives:
     category: '/category/:name/'
 
 # Pagination
-paginate: 6
+paginate: 4
 paginate_path: /page:num/
 
 # Other
