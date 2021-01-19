@@ -3,7 +3,7 @@ layout: post
 title:  '피클플러스 : 넷플릭스 왓챠 월 7천원에 동시 구독하기'
 author: Mark
 categories: [ Lifestyle ]
-image: /img/posts/004/thumbnail.png
+image: assets/images/posts/004/thumbnail.png
 ---
 화장품과 습관관리도 구독서비스를 다루었듯 나는 사용해봤거나 현재도 사용하는 구독서비스가 OTT, 텍스트 콘텐츠, 면도기 등 상당히 많다. 그 말은 그만큼 매달 나가는 금액이 적지 않다는 말이다. 아마 대부분의 서비스는 출시된지 오래되지 않거나 인지도가 높지 않은데, 넷플릭스, 왓챠 등은  이미 많이들 구독할 것이다.
 
