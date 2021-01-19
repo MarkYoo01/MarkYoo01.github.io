@@ -3,6 +3,7 @@ layout: post
 permalink: /myroutine-review/
 title: '마이루틴 : 시행착오 없이 습관 만들기'
 date: 2020-11-13 19:24:00 +09:00
+author: Mark
 categories:
   - service
 image: assets/images/posts/003/thumbnail.png
