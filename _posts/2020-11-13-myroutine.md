@@ -3,10 +3,9 @@ layout: post
 permalink: /myroutine-review/
 title: '마이루틴 : 시행착오 없이 습관 만들기'
 date: 2020-11-13 19:24:00 +09:00
-feature: '/img/posts/003/thumbnail.png'
-background: '/img/posts/003/bg.png'
 categories:
-  - lifestyle
+  - service
+image: assets/images/posts/003/thumbnail.png
 tags:
   - 습관
   - 스타트업
@@ -26,7 +25,7 @@ description: '습관을 기르는 데 유용한 마이루틴 서비스 이용 �
 
  이런 습관을 들이면 너무 좋겠다! 정도면 누구나 마이루틴을 사용할 준비가 된 것이다. 가이드라인과 포맷이 구체적이고 직관적이어서 그냥 하라는 대로 하면 된다. 저걸 천천히 정독하며 "아 이래서 내가 망했구나... 싶은 생각을 많이 했다. 스스로를 너무 믿고 오버하면 안 된다...ㅎㅎ 하나씩 하나씩!"
 
-![myroutine-guide](/img/posts/003/myroutine-guide.png)
+![myroutine-guide](assets/images/posts/003/myroutine-guide.png)
 
 [마이루틴 가이드](https://www.notion.so/ad2620364d5c4e6a9fcecf3c907d4862)
 
@@ -42,7 +41,7 @@ description: '습관을 기르는 데 유용한 마이루틴 서비스 이용 �
 
  선택의 괴로움을 줄여주고 에너지를 저장해준다. '아침밥을 먹을 것인가 더 잘 것인가'를 시작으로 하루에 결정해야 할 게 몇 백개인데 그걸 다 합리적으로 결정하겠다고 머리를 쓰면 오전 중에 에너지가 고갈될 것이다. **정말 신중해야 할 것만 제외하고는 기계처럼 하는 게 좋다.** 머리는 복잡한데 집중도 안 돼서 정작 한 것도 없이 허무하게 하루가 지나간 경우 누구나 있을 것이다. 그래서 지금 이 순간에 내가 뭘 하면 되는가! 를 설정하려고 할 때 시간/상황을 마이루틴에서 설정하면 그냥 아무 생각 없이 그걸 하고 있다. 김연아가 말하듯 스트레칭할 때 뭔 생각을 하겠나... 그냥 하는 거지
 
-![myroutine-time](/img/posts/003/myroutine-time.png)
+![myroutine-time](assets/images/posts/003/myroutine-time.png)
 
 
 
@@ -62,7 +61,7 @@ description: '습관을 기르는 데 유용한 마이루틴 서비스 이용 �
 
  그리고 요건 사람바이사람인데, 다른 유저들의 루틴을 보면서 자극을 받을 수 있다. 친구들 중에도 너무 대충 사는 것 같다며 유튜브 보면서 동기부여하는 애들이 있다. 마이루틴은 루틴SNS다. 지금 베타 버전이라 아주 진성 유저가 많은데 옆에 왕관 같은 거 있는 사람들 거 보면 유튜브 갈 필요가 없을 것이다. 인스타그램에서 잘나고 멋진 사람들 게시물 보다가 현타 오는 사람이라면 이건 안 보는 게 나을지도...자책은 말자.
 
-![myroutine-retrospect](/img/posts/003/myroutine-retrospect.png)
+![myroutine-retrospect](assets/images/posts/003/myroutine-retrospect.png)
 
  회고도 가능해서 다이어리처럼 사용이 가능한데, 아무래도 이걸 다른 사람이 본다는 게 부담스러울 수 있다. 이 중 하나는 본인만 보기가 가능하다. 하지만 사실 나는 모든 걸 다 비밀로 하고 싶어서 개인적으로는 좀 아쉽다.
 
