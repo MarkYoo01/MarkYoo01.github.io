@@ -2,10 +2,7 @@
 layout: post
 permalink: /pickleplus-review/
 title: '피클플러스 : 넷플릭스 왓챠 월 7천원에 동시 구독하기'
-author: Mark
 date: 2020-11-25 20:15:00 +09:00
-feature: '/img/posts/004/thumbnail.png'
-background: '/img/posts/004/bg.png'
 categories:
   - service
 image: assets/images/posts/004/thumbnail.png
