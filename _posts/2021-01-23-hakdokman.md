@@ -6,7 +6,7 @@ date: 2021-01-23 20:15:00 +09:00
 author: Mark
 categories:
   - education
-image: assets/images/posts/005/karsten-winegeart-ewfHXBcuFA0-unsplash.png
+image: assets/images/posts/005/karsten-winegeart-ewfHXBcuFA0-unsplash.jpg
 tags:
   - 국비지원
   - 취업교육
