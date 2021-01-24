@@ -46,9 +46,13 @@ description: '국비지원교육과 학생독립만세 교육 후기'
 
 
 
-![img](https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jjU%2Fimage%2FzPsRwyPmlABwDH90U0OWauPnWgk.png)
+| ![학습목표](https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jjU%2Fimage%2FhiwmA7525aorhXvl8K_Pg-u8G70.png) |
+| :----------------------------------------------------------: |
+|                     실제 교과서 학습목표                     |
 
-![img](https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jjU%2Fimage%2FhiwmA7525aorhXvl8K_Pg-u8G70.png)
+| ![학생독립만세 과제](https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2F5jjU%2Fimage%2FzPsRwyPmlABwDH90U0OWauPnWgk.png) |
+| :----------------------------------------------------------: |
+|        디지털마케팅 실제 과제(상당히 어려운 과제였..)        |
 
  출석체크는 물론이고, 매번 과제도 있고 이를 철저히 관리하는 조교님도 계셔서 적당한 긴장감을 가지고 수업에 임할 수 있었다. **실용교육은 학습목표가 특히 중요하다. 강의를 들으면 대충 이해한 것 같은데 실제로 할 줄 아는 게 없다면 시간낭비다. "~을 할 수 있다" 식의 학습목표를 이행하기 위해 적절한 과제를 부여하는 것이 정말 중요한데,** 디지털마케팅 수업은 다행히 그 점을 제대로 반영했다.
 
@@ -74,4 +78,4 @@ description: '국비지원교육과 학생독립만세 교육 후기'
 
 
 
-교육학과의 취업교육 리뷰 끗~
+교육학과의 취업교육 리뷰 끗
